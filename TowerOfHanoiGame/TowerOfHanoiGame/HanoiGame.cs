@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TowerOfHanoiGame
 {
-    class HanoiGame
+    public class HanoiGame
     {
         int disk;
         int from;
